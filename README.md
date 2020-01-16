@@ -1,2 +1,4 @@
 # data_analysis
-Reconciliation techniques
+numpy
+pandas
+matplotlib
